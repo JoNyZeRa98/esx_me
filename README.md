@@ -5,15 +5,15 @@
 <h5 align="center">https://discord.gg/RaZk9SZHjr </h5>
 
 <h4 align="center">
-Esx_me is a script that allows you to write in-game messages displayed over your head with a chat command.
+Esx_me is a script that allows you to write in-game messages displayed over your head with a chat command (/me "message").
 </h5>
 
 ### 🛠 Requirements
 - FXServer
 
 ### ✅ Main Features
-- Display messages over your head
-- Automatic check for script updates
+- Display messages over your head with the command /me
+- The script automatically checks for possible updates
 
 ### 🔧 Download & Installation
 
