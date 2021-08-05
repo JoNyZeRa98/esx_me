@@ -2,7 +2,7 @@
 	JOIN MY OFFICIAL DISCORD FOR SUPPORT
 </h1>
 
-https://discord.gg/RaZk9SZHjr
+<center>https://discord.gg/RaZk9SZHjr</center>
 
 <h4 align="center">
 Esx_me is a script that allows you to write in-game messages displayed over your head with a chat command.
