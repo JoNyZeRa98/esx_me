@@ -4,9 +4,14 @@
 
 <h5 align="center">https://discord.gg/RaZk9SZHjr </h5>
 
+<h2 align="center">
+Onesync Infinity 🌍 & Legacy 👨‍💻 compatible.
+</h2>
+
+
 <h4 align="center">
 Esx_me is a script that allows you to write in-game messages displayed over your head with a chat command (/me "message").
-</h5>
+</h4>
 
 ### 🛠 Requirements
 - FXServer
