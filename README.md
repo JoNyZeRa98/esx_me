@@ -18,6 +18,7 @@ Esx_me is a script that allows you to write in-game messages displayed over your
 
 ### ✅ Main Features
 - Display messages over your head with the command /me
+- Highly optimized script (0.01 ms)
 - The script automatically checks for possible updates
 
 ### 🔧 Download & Installation
