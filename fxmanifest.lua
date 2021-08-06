@@ -7,7 +7,7 @@
   /__________)                                (_________\
   
                  Discord: jonyzera#2168
-			GitHub: https://github.com/JoNyZeRa98
+           GitHub: https://github.com/JoNyZeRa98
 
 ]]--
 
