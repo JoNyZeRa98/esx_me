@@ -2,7 +2,7 @@
 	JOIN MY OFFICIAL DISCORD FOR SUPPORT
 </h1>
 
-<h5 align="center">https://discord.gg/RaZk9SZHjr </h5>
+<h5 align="center">https://discord.gg/Ypt2m8FjRy </h5>
 
 <h2 align="center">
 Onesync Infinity 🌍 & Legacy 👨‍💻 compatible.
